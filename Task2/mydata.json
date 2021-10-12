@@ -1,0 +1,32 @@
+[
+    {
+        "fname": "Inzamam",
+        "lname": "Nur",
+        "age": "20",
+        "Dsignation": "Junior Programmer",
+        "language": "JAVA",
+        "email": "inzamam.nur99@gmail.com",
+        "pword": "@12345ASdff",
+        "file": "Inzamam.jpg"
+    },
+    {
+        "fname": "ifti",
+        "lname": "Nur",
+        "age": "23",
+        "Dsignation": "Senior Programmer",
+        "language": "PHP",
+        "email": "ifti@gmail.com",
+        "pword": "@#1234556",
+        "file": "Inzamam nur.jpg"
+    },
+    {
+        "fname": "",
+        "lname": "",
+        "age": "",
+        "Dsignation": null,
+        "language": null,
+        "email": "",
+        "pword": "",
+        "file": ""
+    }
+]
