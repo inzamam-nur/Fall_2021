@@ -1,0 +1,38 @@
+form{
+    background-color: rgb(115, 126, 126);
+    
+}
+h1{
+    text-align: center;
+    padding-top: 80px;
+}
+h4{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.headeer{
+    background-color: aqua;
+    margin: 5px;
+    ;
+   
+}
+header{
+
+    background-color: blueviolet;
+    padding: 5px;
+}
+h2{
+    margin-left: 10px;
+    background-color: cadetblue;
+  box-shadow: rgb(229, 231, 231) 5px ;
+}
+.form{
+    background-color: rgb(7, 124, 36);
+    margin-left: 5px;
+}
+.table{
+    background-color: darkgoldenrod;
+}
+.button{
+    background-color: #4322da;
+}
